@@ -1,5 +1,5 @@
 #Руководство по Flux в картинках
-Перевод статьи [@linclark](https://github.com/linclark "@linclark")
+Перевод статьи [@linclark](https://github.com/linclark "@linclark") — [A cartoon guide to Flux](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207#.h7qwdphug "A cartoon guide to Flux")
 
 ![01](https://github.com/Sacret/a-cartoon-guide-to-flux/blob/master/media/01.png?raw=true)
 
